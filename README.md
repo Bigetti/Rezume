@@ -2,7 +2,7 @@
 
 ##Балакин Константин Игоревич
 
-![Фотография](F:\NETOLOGYPython\GItPython\GitPagesHomework\we.JPEG)
+![Фотография](we.JPEG)
 
 *Опыт работы 18 лет 2 месяца*
 
